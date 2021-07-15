@@ -1,0 +1,7 @@
+C:\Users\HTC\source\repos\calculoTemperatura\calculoTemperatura\bin\Debug\calculoTemperatura.exe.config
+C:\Users\HTC\source\repos\calculoTemperatura\calculoTemperatura\bin\Debug\calculoTemperatura.exe
+C:\Users\HTC\source\repos\calculoTemperatura\calculoTemperatura\bin\Debug\calculoTemperatura.pdb
+C:\Users\HTC\source\repos\calculoTemperatura\calculoTemperatura\obj\Debug\calculoTemperatura.csproj.AssemblyReference.cache
+C:\Users\HTC\source\repos\calculoTemperatura\calculoTemperatura\obj\Debug\calculoTemperatura.csproj.CoreCompileInputs.cache
+C:\Users\HTC\source\repos\calculoTemperatura\calculoTemperatura\obj\Debug\calculoTemperatura.exe
+C:\Users\HTC\source\repos\calculoTemperatura\calculoTemperatura\obj\Debug\calculoTemperatura.pdb
